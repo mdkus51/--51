@@ -4,3 +4,4 @@ File was created directly on GitHub
 git add <ис-51>
 git commit -m "New file was created directly on GitHub
 git branch 
+git restore
